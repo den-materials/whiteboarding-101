@@ -1,30 +1,33 @@
----
+<!---
 title: Whiteboarding for Interviews
 duration: "1:25"
 creator:
     name: Drew Mahrt
     city: NYC
----
+--->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Whiteboarding for Interviews
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+# Whiteboarding for Interviews
+
+<!-- I think we can run this slightly faster than indicated in timing...shoot for ~11:00-11:05 completion -->
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
-- Describe the purpose of whiteboarding
-- Implement whiteboarding techniques
+- **Describe** the purpose of whiteboarding
+- **Implement** whiteboarding techniques
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Write a function in Java using programming fundamentals
+- **Write** a function in Javascript using programming fundamentals
 
-### INSTRUCTOR PREP
+<!-- INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 - Open and run the solution code to ensure you agree with the solution and it works properly 
 
 > Instructor Note: You can modify this lesson as you feel appropriate to fit your personal whiteboarding techniques.
 
----
+--->
 
 ### LESSON GUIDE
 
@@ -36,20 +39,25 @@ creator:
 | 55 min  | [Independent Practice](#independent-practice-whiteboarding-problems-55-mins)  | Whiteboarding Problems |
 | 5 min  | [Conclusion](#conclusion-5-mins)  | Review / Recap |
 <a name="opening"></a>
-## Opening (5 mins)
+
+<!--10:00 5 minutes -->
+
+## Opening
 
 Whiteboarding is often a very important part of the technical interview process and gives the interviewers an insight into your thought process as well as your knowledge on the subject. As the name implies, whiteboarding is the technique of solving a problem on a whiteboard. While this sounds relatively straightforward, it can actually be quite challenging. Today we're going to learn!
 
-> Check: Give the students 1 minute to discuss the types of questions they think might be asked during a whiteboarding session.
+<!-- Check: Give the students 1 minute to discuss the types of questions they think might be asked during a whiteboarding session.-->
 
 ***
 
+<!--10:05 10 minutes -->
+
 <a name="introduction"></a>
-## Introduction: Whiteboarding Techniques (10 mins)
+## Introduction: Whiteboarding Techniques
 
 While one of the main goals in whiteboarding is to solve the problem you are given, the interviewers are also finding out much more about who you are and how you work.
 
-> Give the students 2 minutes to discuss what they think are some important things to keep in mind while at the whiteboard.
+<!-- CFU: Give the students 2 minutes to discuss what they think are some important things to keep in mind while at the whiteboard. -->
 
 Here are some extremely important skills to practice while at the whiteboard:
 
@@ -63,12 +71,14 @@ Here are some extremely important skills to practice while at the whiteboard:
 
 If you can't finish a question, that's ok! It's more important that you show the interviewer how you approached the problem and to give them a good idea of how you code.
 
-> Check: Ask the students what they should do if they get stuck while they are coding on the whiteboard.
+<!-- Check: Ask the students what they should do if they get stuck while they are coding on the whiteboard.-->
 
 ***
 
+<!--10:15 15 minutes -->
+
 <a name="guided-practice"></a>
-## Guided Practice: Whiteboarding Examples (15 mins)
+## Guided Practice: Whiteboarding Examples
 
 Now that we've discussed some techniques, let's walk through a real example.
 
@@ -78,7 +88,7 @@ Suppose we had the following question:
 Given two arrays of integers of equal length, that are identical except for a single element, write a method to return the index of the number which is different in the second array.
 ```
 
-> Ask the students what they think the first step is, second, etc.
+<!-- Ask the students what they think the first step is, second, etc.-->
 
 First, we should start off with a few quick examples:
 
@@ -113,12 +123,14 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 ***
 
+<!--10:30 30-45 minutes -->
+
 <a name="ind-practice"></a>
-## Independent Practice: Whiteboarding Problems (55 mins)
+## Independent Practice: Whiteboarding Problems
 
-Now it's your turn! Get into groups of 3-4 people, and each person will take, at most, 10 minutes to pick a problem from the list below to solve. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
+Now it's your turn! Get into groups of 3 people, and each person will take, at most, 10 minutes to pick a problem from the list below to solve. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
 
-> Instructor Note: Circulate around the room listening to how students are doing and offer advice when needed.
+<!-- Instructor Note: Circulate around the room listening to how students are doing and offer advice when needed.-->
 
 1. Find the character that appears the most time in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
 2. An array is supposed to contain the numbers 1-10, but one number is missing. Find and return that number.
@@ -126,14 +138,16 @@ Now it's your turn! Get into groups of 3-4 people, and each person will take, at
 4. Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more.
 5. Given an array of ints, return the string "even" if there are more even elements in the array, or "odd" if there are more odd elements in the array.
 
-> Check: Take one minute to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each.
+<!-- Check: Take one minute to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each. -->
 
 ***
 
+<!--11:00 5 minutes -->
+
 <a name="conclusion"></a>
-## Conclusion (5 mins)
+## Conclusion
 
 Whiteboarding can be deceptively difficult and only becomes easier with practice - we're doing this in week 1, so you can immediately start practicing and get better each week.  Knowing these basic techniques will help you to relax and concentrate on the problem you are presented with during your interviews.  
 
-- Describe the steps we reviewed when approaching a whiteboarding problem?
+- Describe the steps we reviewed when approaching a whiteboarding problem.
 - Why is it ok to ask questions?
