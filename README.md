@@ -10,7 +10,7 @@ creator:
 
 # Whiteboarding for Interviews
 
-<!-- I think we can run this slightly faster than indicated in timing...shoot for ~11:00-11:05 completion -->
+<!-- Shoot for ~11:00-11:05 completion, but if we run a little over it's okay (allow time for independent practice) -->
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
