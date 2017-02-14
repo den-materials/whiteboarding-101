@@ -10,7 +10,7 @@ creator:
 
 # Whiteboarding for Interviews
 
-<!-- Shoot for ~11:00-11:05 completion, but if we run a little over it's okay (allow time for independent practice) -->
+<!-- Shoot for ~11:20 completion, but if we run a little over it's okay (allow time for independent practice) -->
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -29,18 +29,7 @@ creator:
 
 --->
 
-### LESSON GUIDE
-
-| TIMING  | TYPE  | TOPIC  |
-|:-:|---|---|
-| 5 min  | [Opening](#opening-5-mins)  | Discuss lesson objectives |
-| 10 min  | [Introduction](#introduction-whiteboarding-techniques-10-mins)  | Whiteboarding Techniques |
-| 15 min  | [Guided Practice](#guided-practice-whiteboarding-examples-15-mins)  | Whiteboarding Examples |
-| 55 min  | [Independent Practice](#independent-practice-whiteboarding-problems-55-mins)  | Whiteboarding Problems |
-| 5 min  | [Conclusion](#conclusion-5-mins)  | Review / Recap |
-<a name="opening"></a>
-
-<!--10:00 5 minutes -->
+<!--10:10 5 minutes -->
 
 ## Opening
 
@@ -50,7 +39,7 @@ Whiteboarding is often a very important part of the technical interview process 
 
 ***
 
-<!--10:05 10 minutes -->
+<!--10:15 10 minutes -->
 
 <a name="introduction"></a>
 ## Introduction: Whiteboarding Techniques
@@ -75,7 +64,7 @@ If you can't finish a question, that's ok! It's more important that you show the
 
 ***
 
-<!--10:15 15 minutes -->
+<!--10:25 15 minutes -->
 
 <a name="guided-practice"></a>
 ## Guided Practice: Whiteboarding Examples
@@ -123,31 +112,29 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 ***
 
-<!--10:30 30-45 minutes -->
+<!--10:40 35 minutes -->
 
 <a name="ind-practice"></a>
 ## Independent Practice: Whiteboarding Problems
 
-Now it's your turn! Get into groups of 3 people, and each person will take, at most, 10 minutes to pick a problem from the list below to solve. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
+Now it's your turn! Get into groups of 3 people, and each person will take about 10 minutes to solve a problem from the list below. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
 
 <!-- Instructor Note: Circulate around the room listening to how students are doing and offer advice when needed.-->
 
-1. Find the character that appears the most time in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
+1. Find the character that appears the most times in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
 2. An array is supposed to contain the numbers 1-10, but one number is missing. Find and return that number.
 3. Write a method that finds the second highest number in an array of integers.
-4. Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more.
-5. Given an array of ints, return the string "even" if there are more even elements in the array, or "odd" if there are more odd elements in the array.
 
-<!-- Check: Take one minute to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each. -->
+<!-- Check: Take a few minutes to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each. -->
 
 ***
 
-<!--11:00 5 minutes -->
+<!--11:15 5 minutes -->
 
 <a name="conclusion"></a>
 ## Conclusion
 
-Whiteboarding can be deceptively difficult and only becomes easier with practice - we're doing this in week 1, so you can immediately start practicing and get better each week.  Knowing these basic techniques will help you to relax and concentrate on the problem you are presented with during your interviews.  
+Whiteboarding can be deceptively difficult and only becomes easier with practice - we're doing this in week 2, so you can immediately start practicing and get better each week.  Knowing these basic techniques will help you to relax and concentrate on the problem you are presented with during your interviews.  
 
 - Describe the steps we reviewed when approaching a whiteboarding problem.
 - Why is it ok to ask questions?
