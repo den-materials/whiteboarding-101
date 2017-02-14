@@ -10,8 +10,6 @@ creator:
 
 # Whiteboarding for Interviews
 
-<!-- Shoot for ~11:20 completion, but if we run a little over it's okay (allow time for independent practice) -->
-
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 - **Describe** the purpose of whiteboarding
@@ -29,7 +27,7 @@ creator:
 
 --->
 
-<!--10:10 5 minutes -->
+<!--10:20 5 minutes -->
 
 ## Opening
 
@@ -39,7 +37,7 @@ Whiteboarding is often a very important part of the technical interview process 
 
 ***
 
-<!--10:15 10 minutes -->
+<!--10:25 10 minutes -->
 
 <a name="introduction"></a>
 ## Introduction: Whiteboarding Techniques
@@ -64,7 +62,7 @@ If you can't finish a question, that's ok! It's more important that you show the
 
 ***
 
-<!--10:25 15 minutes -->
+<!--10:35 15 minutes -->
 
 <a name="guided-practice"></a>
 ## Guided Practice: Whiteboarding Examples
@@ -112,7 +110,7 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 ***
 
-<!--10:40 35 minutes -->
+<!--10:50 35 minutes -->
 
 <a name="ind-practice"></a>
 ## Independent Practice: Whiteboarding Problems
@@ -129,7 +127,7 @@ Now it's your turn! Get into groups of 3 people, and each person will take about
 
 ***
 
-<!--11:15 5 minutes -->
+<!--11:25 5 minutes -->
 
 <a name="conclusion"></a>
 ## Conclusion
