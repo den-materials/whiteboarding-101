@@ -58,8 +58,6 @@ Here are some extremely important skills to practice while at the whiteboard:
 
 If you can't finish a question, that's ok! It's more important that you show the interviewer how you approached the problem and to give them a good idea of how you code.
 
-<!-- Check: Ask the students what they should do if they get stuck while they are coding on the whiteboard.-->
-
 ***
 
 <!--10:35 15 minutes -->
