@@ -27,6 +27,7 @@ creator:
 
 --->
 
+<!--Actually 10:33 -->
 <!--10:20 5 minutes -->
 
 ## Opening
@@ -37,6 +38,7 @@ Whiteboarding is often a very important part of the technical interview process 
 
 ***
 
+<!--10:37 -->
 <!--10:25 10 minutes -->
 
 <a name="introduction"></a>
@@ -60,6 +62,7 @@ If you can't finish a question, that's ok! It's more important that you show the
 
 ***
 
+<!--10:41 -->
 <!--10:35 15 minutes -->
 
 <a name="guided-practice"></a>
@@ -108,6 +111,7 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 ***
 
+<!--Actually 10:53 -->
 <!--10:50 35 minutes -->
 
 <a name="ind-practice"></a>
@@ -125,7 +129,9 @@ Now it's your turn! Get into groups of 3 people, and each person will take about
 
 ***
 
+<!--Actually 11:40 -->
 <!--11:25 5 minutes -->
+<!--End 11:55 -->
 
 <a name="conclusion"></a>
 ## Conclusion
