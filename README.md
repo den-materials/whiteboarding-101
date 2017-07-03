@@ -96,7 +96,7 @@ Next, we should list the steps we are going to follow in our method.
 Finally, we can start writing our code:
 
 ```
-public int findDifference(int[] arr1, int[] arr2){
+function findDifference(arr1, arr2){
   for(int i=0; i < arr1.length; i++){
     if(arr1[i] != arr2[i]){
       return i;
