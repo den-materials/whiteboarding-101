@@ -8,6 +8,8 @@ creator:
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--10:05 WDI5 -->
+
 # Whiteboarding for Interviews
 
 ### LEARNING OBJECTIVES
@@ -65,6 +67,7 @@ If you can't finish a question, that's ok! It's more important that you show the
 ***
 
 <!--10:41 -->
+<!--WDI5 10:16 -->
 <!--WDI4 10:35 -->
 <!--10:35 15 minutes -->
 
@@ -114,6 +117,7 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 ***
 
+<!--WDI5 10:32 -->
 <!--Actually 10:53 -->
 <!--WDI4 10:52, 10:57 when first problem solving started-->
 <!--10:50 35 minutes -->
@@ -137,6 +141,7 @@ Now it's your turn! Get into groups of 3 people, and each person will take about
 <!--11:25 5 minutes -->
 <!--End 11:55 -->
 <!--WDI4 11:55 -->
+<!--WDI5 11:11 -->
 
 <a name="conclusion"></a>
 ## Conclusion
