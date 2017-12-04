@@ -132,6 +132,7 @@ Now it's your turn! Get into groups of 3 people, and each person will take about
 1. Find the character that appears the most times in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
 2. An array is supposed to contain the numbers 1-10, but one number is missing. Find and return that number.
 3. Write a method that finds the second highest number in an array of integers.
+4 Write a function that multiplies all elements of an array by 10 if and only if the element is an even number.
 
 <!-- Check: Take a few minutes to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each. -->
 
