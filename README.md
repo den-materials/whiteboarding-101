@@ -9,6 +9,7 @@ creator:
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--10:05 WDI5 -->
+<!--WDI6 10:05 -->
 
 # Whiteboarding for Interviews
 
@@ -118,6 +119,7 @@ You can see that each step we wrote out corresponds to a certain section of the 
 ***
 
 <!--WDI5 10:32 -->
+<!--WDI6 10:38, 10:42 when first problem solving started -->
 <!--Actually 10:53 -->
 <!--WDI4 10:52, 10:57 when first problem solving started-->
 <!--10:50 35 minutes -->
@@ -132,7 +134,7 @@ Now it's your turn! Get into groups of 3 people, and each person will take about
 1. Find the character that appears the most times in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
 2. An array is supposed to contain the numbers 1-10, but one number is missing. Find and return that number.
 3. Write a method that finds the second highest number in an array of integers.
-4. Write a function that multiplies all elements of an array by 10 if and only if the element is an even number.
+4. Write a function that multiplies an element of an array by 10 if and only if the element is an even number, and then returns that modified array.
 
 <!-- Check: Take a few minutes to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each. -->
 
@@ -151,3 +153,4 @@ Whiteboarding can be deceptively difficult and only becomes easier with practice
 
 - Describe the steps we reviewed when approaching a whiteboarding problem.
 - Why is it ok to ask questions?
+<!--WDI6 11:37  -->
